@@ -2,7 +2,7 @@
 
 An interactive stock market analysis dashboard built with **Python**, **Streamlit**, and **Alpha Vantage API**. This tool lets users explore stock trends, visualize historical prices, and compute technical indicators like moving averages.
 
-![App Screenshot](screenshot/scrrenshot.png)
+![App Screenshot](screenshot/stock.png)
 
 ---
 
